@@ -8,10 +8,4 @@
 
 <img src="images/sousuo.png">
 
-<style>
-img{
-width:50%;
-margin:25px;
-}
 
-</style>
